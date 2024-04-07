@@ -1,0 +1,42 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  height: 100%;
+  background-color: #f5f5f5;
+}
+
+.myimage {
+  justify-content: left;
+}
+.image_margin {
+  justify-content: center;
+}
+
+.image_left {
+  padding-left: 20px;
+}
+.resume_subject{
+  background-color: #00000000;
+}
+
+.keyword_box {
+  display: inline;
+  margin: auto;
+  justify-content: center;
+  background-color: #f5f5f5;
+  border-style: double;
+}
+
+.list_btn {
+  cursor: grab;
+  background-color: #f5f5f5;
+}
+
+.btn_gap {
+  display: inline;
+  justify-content: center;
+}
+
